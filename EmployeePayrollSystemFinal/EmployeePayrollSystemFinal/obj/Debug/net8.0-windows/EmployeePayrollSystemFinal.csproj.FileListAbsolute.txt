@@ -1,0 +1,84 @@
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.exe
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.deps.json
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.runtimeconfig.json
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.dll
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.pdb
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Login.resources
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Properties.Resources.resources
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.AssemblyInfo.cs
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.dll
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\refint\EmployeePayrollSystemFinal.dll
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.pdb
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.genruntimeconfig.cache
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\ref\EmployeePayrollSystemFinal.dll
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Employee.resources
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Home.resources
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Splash.resources
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.CopyComplete
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.exe
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.deps.json
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.runtimeconfig.json
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.dll
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.pdb
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Employee.resources
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Home.resources
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Login.resources
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Properties.Resources.resources
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Splash.resources
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.AssemblyInfo.cs
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.CopyComplete
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.dll
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\refint\EmployeePayrollSystemFinal.dll
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.pdb
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.genruntimeconfig.cache
+C:\Users\HP\Desktop\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\ref\EmployeePayrollSystemFinal.dll
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.exe
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.deps.json
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.runtimeconfig.json
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.dll
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\EmployeePayrollSystemFinal.pdb
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Employee.resources
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Home.resources
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Login.resources
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Properties.Resources.resources
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.Splash.resources
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.AssemblyInfo.cs
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.csproj.CopyComplete
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.dll
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\refint\EmployeePayrollSystemFinal.dll
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.pdb
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\EmployeePayrollSystemFinal.genruntimeconfig.cache
+C:\Users\HP\Desktop\C# Projects\EmployeePayrollSystemFinal\EmployeePayrollSystemFinal\obj\Debug\net8.0-windows\ref\EmployeePayrollSystemFinal.dll
